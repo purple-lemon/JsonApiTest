@@ -1,0 +1,15 @@
+{
+  "config": {
+    "log_path": "log",
+    "defaults": {
+      "api_call": {
+        "request": {
+          "base_url": "https://jsonplaceholder.typicode.com",
+          "headers": {
+          }          
+        },
+        "status": 200
+      }
+    }
+  }
+}
