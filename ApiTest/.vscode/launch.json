@@ -8,7 +8,7 @@
 			"type": "node",
 			"request": "launch",
 			"name": "Launch Program",
-			"program": "C:\\Users\\Bogdan\\AppData\\Roaming\\npm\\node_modules\\jsonapitest\\index.js",
+			"program": "C:\\Users\\{UserName}\\AppData\\Roaming\\npm\\node_modules\\jsonapitest\\index.js",
 			// "cwd": "${workspaceRoot}",
 			"args": [
 				"${workspaceRoot}/config", "${workspaceRoot}/suites"
