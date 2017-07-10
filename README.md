@@ -1,4 +1,4 @@
-##JsonApiTest debug sample
+## JsonApiTest debug sample
 Here is simple project that allows you debug nodejs project with JsonApiTest on VS Code
 How to:
 
